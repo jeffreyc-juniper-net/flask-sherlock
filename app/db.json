@@ -68,4 +68,12 @@
     "rating": 7.7,
     "director": ["Sofia Coppola"],
     "stars": ["Bill Murray", "Scarlett Johansson", "Giovanni Ribisi"]
-}]
+}, {
+    "title": "Tombstone",
+    "genre": ["western", "drama"],
+    "year": 1993,
+    "rating": 7.8,
+    "director": ["George P. Cosmotos"],
+    "stars": ["Kurt Russel", "Val Kilmer"]
+}
+]
